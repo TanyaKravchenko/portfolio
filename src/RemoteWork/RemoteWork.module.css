@@ -5,3 +5,11 @@
 .remoteWorkContainer {
     flex-direction: column;
 }
+
+.title {
+    background: #e3f7f2;
+}
+
+.remoteWorkButton {
+    padding-bottom: 20px;
+}

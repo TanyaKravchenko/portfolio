@@ -9,16 +9,18 @@
 .footerItems {
     display: flex;
     flex-direction: row;
-    height: 80px;
-    width: 490px;
+    justify-content: space-between;
+    height: 50px;
+    width: 250px;
     background: burlywood;
 }
 
 .footerItem {
     height: 100%;
-    width: 70px;
+    width: 50px;
+    background: paleturquoise;
 }
 
-.footerItem:nth-child(odd) {
-    background: PaleTurquoise;
+.title {
+    background: #e3f7f2;
 }

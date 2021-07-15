@@ -5,3 +5,29 @@
 .contactContainer {
     flex-direction: column;
 }
+
+.title {
+    background: cadetblue;
+}
+
+.contactForm {
+    width: 250px;
+    height: 150px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.contactForm input {
+    height: 30px;
+}
+
+.contactForm textarea {
+    height: 50px;
+}
+
+.contactButton {
+    padding-bottom: 20px;
+}

@@ -12,10 +12,8 @@ function Footer() {
                     <div className={style.footerItem}></div>
                     <div className={style.footerItem}></div>
                     <div className={style.footerItem}></div>
-                    <div className={style.footerItem}></div>
-                    <div className={style.footerItem}></div>
-                    <div className={style.footerItem}></div>
                 </div>
+                <p>&#169; All rights reserved</p>
             </div>
         </div>
     );

@@ -7,7 +7,7 @@ function RemoteWork() {
         <div className={style.remoteWorkBlock}>
             <div className={`${styleContainer.container} ${style.remoteWorkContainer}`}>
                 <h2 className={style.title}>I will consider options for remote work</h2>
-                <div className={`${styleContainer.allButtons} ${style.works}`}>
+                <div className={`${styleContainer.allButtons} ${style.remoteWorkButton}`}>
                     <button>hire me</button>
                 </div>
             </div>
