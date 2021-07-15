@@ -1,0 +1,24 @@
+.footerBlock {
+    background: cadetblue;
+}
+
+.footerContainer {
+    flex-direction: column;
+}
+
+.footerItems {
+    display: flex;
+    flex-direction: row;
+    height: 80px;
+    width: 490px;
+    background: burlywood;
+}
+
+.footerItem {
+    height: 100%;
+    width: 70px;
+}
+
+.footerItem:nth-child(odd) {
+    background: PaleTurquoise;
+}

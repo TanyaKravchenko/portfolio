@@ -1,0 +1,7 @@
+.contactBlock {
+    background: #e3f7f2;
+}
+
+.contactContainer {
+    flex-direction: column;
+}

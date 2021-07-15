@@ -1,0 +1,7 @@
+.remoteWorkBlock {
+    background: cadetblue;
+}
+
+.remoteWorkContainer {
+    flex-direction: column;
+}

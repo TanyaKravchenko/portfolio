@@ -1,16 +1,16 @@
 .mainBlock {
     height: 100vh;
-    background: #50abff;
+    background: #e3f7f2;
 }
 
 .text {
     width: 300px;
-    background: mediumslateblue;
+    background: darkcyan;
 }
 
 .photo {
     width: 300px;
     height: 400px;
-    background: mediumslateblue;
+    background: darkcyan;
 }
 

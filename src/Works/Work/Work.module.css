@@ -1,0 +1,32 @@
+.work {
+    width: 500px;
+    background-color: burlywood;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.workImg {
+    width: 100%;
+    height: 400px;
+    background:url("images/Grid-14-old-cunts.jpg");
+}
+
+.workImg button {
+    /*background-color: #3b917b;*/
+    /*border-radius: 4.9em;*/
+    /*border: 0px solid rgba(232,102,59,0);*/
+    /*color: whitesmoke;*/
+    /*font-weight: 900;*/
+    /*font-style: normal;*/
+    /*letter-spacing: .03em;*/
+    /*line-height: 1.3em;*/
+    /*text-transform: uppercase;*/
+    /*width: 130px;*/
+    /*height: 40px;*/
+}
+
+.workImg button:hover {
+    opacity: 0.9;
+}

@@ -8,3 +8,25 @@
     border: 1px solid;
     flex-wrap: wrap;
 }
+
+.allButtons button {
+    background-color: Teal;
+    border-radius: 4.9em;
+    border: 0px solid rgba(232,102,59,0);
+    color: whitesmoke;
+    font-weight: 900;
+    font-style: normal;
+    letter-spacing: .03em;
+    line-height: 1.3em;
+    text-transform: uppercase;
+    width: 130px;
+    height: 40px;
+    box-shadow: 0 0 10px #282c34;
+}
+
+.allButtons button:hover {
+    opacity: 0.7;
+}
+
+
+
