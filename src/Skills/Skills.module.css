@@ -18,5 +18,10 @@
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    box-sizing: border-box;
+}
+
+@media (max-width: 425px) {
+    .skills {
+        justify-content: center;
+    }
 }
